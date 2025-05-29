@@ -1,5 +1,7 @@
-class Przepelnienie extends Exception {
-    public Przepelnienie(String komunikat) {
-        super(komunikat);
+class Przepelnienie extends Exception
+{
+    public Przepelnienie( String komunikat)
+    {
+        super( komunikat);
     }
 }
